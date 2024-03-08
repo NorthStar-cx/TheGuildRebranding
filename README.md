@@ -35,5 +35,20 @@ This is how we document things.
 > testing this
 **testing this**
 
+# Who is who
+## The Guild
+[The Guild](www.the-guild.dev) is a group of open source developers.
+They were formed in order to bring a different approach for sustainable open source development.
+They believe in the interaction between internal teams with real world challenges and open source.
+They are the team that links those together.
+One of their main guidelines of open source is solving real issues for real people.
+That's why they work with and help companies like Microsoft, KLM-AirFrance, Schneider-Electric, Wix and others.
+They do everything that's needed to improve developer productivity and product performance.
 
+## North Star
 [North Star](www.northstar.cx)
+North Star is a boutique growth accelerator for startups and tech companies on the verge of greatness. They aim to be strategic partners at the intersection of innovation and impact, harnessing the power of digital to design compelling brands and enable scale. With a hint of visual magic.
+
+They don't just strategize for you; they strategize with you. Their aim is to not only deliver tangible results but also to empower your team, ensuring the strategies, insights and competencies we develop together remain an intrinsic part of your company's DNA.
+
+

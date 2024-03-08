@@ -27,13 +27,31 @@ In an age where community engagement and transparency are paramount, concealing 
 This rebranding journey for The Guild, facilitated by North Star, is an open invitation to The Guild's community and the wider public. We believe that by embracing a collaborative approach, we can craft a brand identity that resonates more deeply with everyone involved. Your insights, feedback, and participation are invaluable to this process.
 
 
-# This is me testing the readme file.
-## This should be smaller.
+# Rebranding Process
+The rebranding process consists of four disctinctive phases. Each of them serves as a source of data and decisions for the next one. 
+
+## Brand Audit
+Brand Audit is the starting point allowing us to construct a sensible process, focused on achieving goals and results important for The Guild, with the highest impact potential.
+
+A brand audit is a comprehensive examination of a brand's current positioning in the market. This process helps in understanding the strengths and weaknesses of a brand from various perspectives. The primary purpose of conducting a brand audit is to gain a clear, objective perspective of the brand's current status and map out the materials used to get a sense of the scope of work in the later stages.
+
+### Areas of focus
+
+1. **Audit of Current Brand Communications (External):** This involves reviewing all forms of external communication that the brand engages in. It includes analyzing marketing materials, digital presence (like websites and social media), advertising campaigns and public relations efforts.
+2. **Audit of Internal Brand Materials:** This part of the audit focuses on the materials used within the organization. It examines internal communication tools, brand guidelines, and how the brand's identity is upheld internally. 
+3. **Audit of Current Brand Architecture (Brand x Products):** This involves analyzing the relationship between the overall brand and its individual products or services. It looks at how the brand is structured and how each product or service fits within this structure. This will be done by North Star basing on the website.
+4. **Audit of Current Brand Design:** This aspect reviews the visual elements of the brand, such as logos, color schemes, typography, and overall design aesthetics. It assesses how these elements contribute to the brand’s identity and perception in the market.
+
+## Diagnostics
+During this phase, we’ll diagnose The Guild's current brand identity. While everyone at The Guild has their own beliefs about the company, it’s very important to us to see how others perceive us, so that we get as much user perspective as we can! We’ll also take a look at other great companies in this space, to find inspiration and best practices. The diagnostics phase will aim to be as collaborative with the community as possible, as we want to challenge our own assumptions and find the most quality feedback!
+
+## Strategy
+Once we have a complete and data-driven understanding of the current state of The Guild, both from our internal perspective and external, with the help of our community, we’ll be able to move towards building a set of strategic foundations. We will be hosting a workshop together as The Guild and North Star, during which we’ll work together and decide how we want to tackle our goals and what are the best tactics to accomplish those.
+
+## Creative Execution
+Once we decide on the full strategy, we’re going to execute on it — also here in an open source manner. All of our websites are already open source, so each change we’ll make there would be as well. But we also want to open source our brand assets, design system in Figma and frontend components, communication strategy and guidelines and any other product or marketing related work we’ll execute on. We’ll need to use or create tools and ways that help us collaborate on the process in that unique way. We hope others could benefit from that as well and maybe make it easier for companies to go through these types of processes in the open.
 
 
-This is how we document things.
-> testing this
-**testing this**
 
 # Who is who
 ## The Guild
